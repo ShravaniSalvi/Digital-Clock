@@ -41,5 +41,5 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
 
-- [Shravani Salvi]
-- ((https://github.com/ShravaniSalvi) 
+- Shravani Salvi
+- https://github.com/ShravaniSalvi
