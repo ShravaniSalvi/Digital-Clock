@@ -10,7 +10,7 @@ A simple digital clock project built using HTML, CSS, and JavaScript. The clock 
 
 ## Preview
 
-![Digital Clock Screenshot](/home/shravani/Pictures/Screenshots/digital_clock.png) 
+![Digital Clock Screenshot](digital_clock.png) 
 ## Tech Stack
 
 - **HTML**: Structure of the digital clock.
