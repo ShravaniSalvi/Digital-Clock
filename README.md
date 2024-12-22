@@ -41,4 +41,4 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## Author
 
-- [Your Name](https://github.com/your-username) *(Replace this with your name and GitHub profile)*
+- [Shravani Salvi]((https://github.com/ShravaniSalvi) *(Replace this with your name and GitHub profile)*
